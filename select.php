@@ -27,5 +27,10 @@ while($row= mysqli_fetch_assoc($result)){
     
 }
         ?>
+        <div class="btn btn-default">
+            <a href="delete.php?id=1">Delete</a>
+            
+            
+        </div>
     </body>
 </html>
